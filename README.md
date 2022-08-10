@@ -13,12 +13,12 @@ Variáveis e seus tipos
 ### Declarando variáveis no Javascript
 
 ```js
-let name = "Matheus";
+let name = "Matheus Quadros";
 const age = 27;
 let paid = true;
 const price = 3.8;
 let name2
-name2 = "Marlon"
+name2 = "Marlon Quadros"
 const scores = [10, 8, 6]
 scores.append(1)
 ```
