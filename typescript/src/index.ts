@@ -35,3 +35,7 @@ console.log(firstName.toUpperCase());
 myNumbers.push(5);
 
 console.log(myNumbers);
+
+//tuplas -> tuple
+let myTuple: [number, string, string[]];
+
